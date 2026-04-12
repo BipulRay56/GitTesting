@@ -5,4 +5,9 @@ public class GitMain {
         Games obj=new Games();
         obj.game();
     }
+
+    void car(){
+        System.out.println("nexon");
+    }
+
 }
