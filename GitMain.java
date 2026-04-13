@@ -1,14 +1,10 @@
 public class GitMain {
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("Git Animal");
         Games obj=new Games();
-        animal foo = new animal();
         obj.game();
-        foo.m();
-    }
-
-    void car(){
-        System.out.println("nexon");
+        animal anm = new animal();
+        anm.anm();
     }
 }
