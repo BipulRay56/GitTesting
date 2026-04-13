@@ -8,5 +8,6 @@ public class GitMain {
         obj.game();
         animal anm = new animal();
         anm.anm();
+        System.out.println("i am fetched");
     }
 }
